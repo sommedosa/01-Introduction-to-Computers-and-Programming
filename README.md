@@ -12,8 +12,8 @@ Exercise 1
 
 
 8. A(n) _____ is a set of instructions that a computer follows to perform a task. </br>
-*a. compiler 			b. program </br>
-*c. interpreter 			d. programming language </br>
+a. compiler 			b. program </br>
+c. interpreter 			d. programming language </br>
 9. The physical devices that a computer is made of are referred to as ________. </br>
 a. hardware 			b. software </br>
 c. the operating system 		d. tools </br>
