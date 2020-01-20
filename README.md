@@ -26,6 +26,6 @@ c. memory chips 		d. operating systems </br>
 12. The computer stores a program while the program is running, as well as the data that the program is working with, in __________. </br>
 a. secondary storage 		b. the CPU </br>
 c. main memory 			d. the microprocessor </br>
-13. This is a volatile type of memory that is used only for temporary storage while a program is running. </br></br>
+13. This is a volatile type of memory that is used only for temporary storage while a program is running. </br>
 a. RAM 				b. secondary storage </br>
 c. the disk drive 			d. the USB drive</br>
