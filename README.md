@@ -12,20 +12,32 @@ Exercise 1
 
 
 8. A(n) _____ is a set of instructions that a computer follows to perform a task. </br>
-a. compiler 			b. program </br>
-c. interpreter 			d. programming language </br>
+a. compiler  </br>
+b. program </br>
+c. interpreter </br>
+d. programming language </br>
 9. The physical devices that a computer is made of are referred to as ________. </br>
-a. hardware 			b. software </br>
-c. the operating system 		d. tools </br>
+a. hardware 	 </br>		
+b. software </br>
+c. the operating system 		 </br>
+d. tools </br>
 10. The part of a computer that runs programs is called __________. </br>
-a. RAM	 			b. secondary storage </br>
-c. main memory 			d. the CPU </br>
+a. RAM	  </br>			
+b. secondary storage </br>
+c. main memory 	 </br>		
+d. the CPU </br>
 11. Today, CPUs are small chips known as __________. </br>
-a. ENIACs 			b. microprocessors </br>
-c. memory chips 		d. operating systems </br>
+a. ENIACs 	 </br>		
+b. microprocessors </br>
+c. memory chips  </br>		
+d. operating systems </br>
 12. The computer stores a program while the program is running, as well as the data that the program is working with, in __________. </br>
-a. secondary storage 		b. the CPU </br>
-c. main memory 			d. the microprocessor </br>
+a. secondary storage  </br>	
+b. the CPU </br>
+c. main memory 	 </br>		
+d. the microprocessor </br>
 13. This is a volatile type of memory that is used only for temporary storage while a program is running. </br>
-a. RAM 				b. secondary storage </br>
-c. the disk drive 			d. the USB drive</br>
+a. RAM 		 </br>		
+b. secondary storage </br>
+c. the disk drive 	 </br>		
+d. the USB drive</br>
